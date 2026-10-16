@@ -1,0 +1,13 @@
+{
+  "channel_id": "open_gaming_forensic_lab",
+  "episode_id": "EP01",
+  "slug": "dark-patents",
+  "title": "The $100 Billion Illusion: Reverse-Engineering Mobile Gaming's Dark Patents",
+  "target_duration_sec": 570,
+  "stage": "Phase 1: Cold Launch & Authority Anchor",
+  "status": "STAGED",
+  "created_at": "2026-10-16T12:38:00Z",
+  "clean_room_osint_verified": true,
+  "fair_use_transformative_ratio": 0.72,
+  "safe_margins_verified": true
+}

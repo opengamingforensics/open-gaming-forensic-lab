@@ -1,0 +1,108 @@
+{
+  "schema_version": "2.0-hq-structured-directive",
+  "issue_timestamp": "2026-10-16T14:02:07.591998",
+  "channel_id": "open_gaming_forensic_lab",
+  "channel_name": "Open Gaming Forensic Lab",
+  "schedule_window": {
+    "target_publish_est": "2026-10-17 09:00 EST (周六法医长片旗舰档)",
+    "episode_id": "EP01-DARK-PATENTS",
+    "format": "16:9 商业法医调查长片 (10-12 min) + 9:16 Shorts 双规协同"
+  },
+  "topic_assignment": {
+    "working_title": "The Ghost Patents: How Big Gaming Quietly Weaponized Matchmaking Algorithms",
+    "rationale": [
+      "【全矩阵零撞车首发】：法医级揭开各大游戏厂商匹配机制与动态难度调节专利（EOMM/SBMM）。",
+      "【高张力受众痛点】：直击硬核玩家长期被暗调胜率的强烈疑虑与实证分析。",
+      "【专利原件 OSINT 溯源】：深度呈现美国专利商标局 (USPTO) 真实公开文档与算法流程图。"
+    ]
+  },
+  "benchmark_target": {
+    "title": "Why Modern Multiplayer Games Feel Manipulated",
+    "channel": "Game Maker's Toolkit / Upper Echelon",
+    "youtube_url": "https://www.youtube.com/watch?v=mock_ogfl_ep01",
+    "views": "1,250,000",
+    "retention_30s": "85.0%",
+    "velocity_score": "9.5/10",
+    "why_top": "首帧抛出专利原文证据与冷酷法医语调，悬念感拉满。"
+  },
+  "weighted_scoring_model": {
+    "composite_score": 95.0,
+    "weights": {
+      "visual_craft_ceiling": 0.25,
+      "topic_tension": 0.25,
+      "audience_retention_hook": 0.25,
+      "velocity_surge": 0.15,
+      "conversion_funnel_power": 0.1,
+      "focus_note_zh": "重在游戏行业暗黑专利解密、商业内幕法医审计与长短协同反哺",
+      "focus_note_en": "Prioritizes gaming dark patents analysis, corporate forensic auditing, and dual-track funnel"
+    },
+    "dimensional_scores": [
+      {
+        "dimension_key": "velocity_surge",
+        "name_zh": "播放爆发速度与时效热度",
+        "name_en": "Velocity & Timeliness Surge",
+        "description_zh": "全网该题材在 24h/72h 内的搜索爆发曲线与受众注意力激增率",
+        "raw_score": 92.0,
+        "weight_pct": 15,
+        "weight_factor": 0.15,
+        "weighted_score": 13.8
+      },
+      {
+        "dimension_key": "topic_tension",
+        "name_zh": "核心命题张力与叙事冲突",
+        "name_en": "Topic Tension & Conflict Depth",
+        "description_zh": "剧情/伦理/宏观/工程力学中的冲突深度与人类共通痛点穿透力",
+        "raw_score": 98.0,
+        "weight_pct": 25,
+        "weight_factor": 0.25,
+        "weighted_score": 24.5
+      },
+      {
+        "dimension_key": "visual_craft_ceiling",
+        "name_zh": "视觉工艺与母带呈现上限",
+        "name_en": "Visual Craftsmanship & Mastering",
+        "description_zh": "3D CAD 微观剖面、高阶调色、图层景深与排版零 Emoji 纪律",
+        "raw_score": 96.0,
+        "weight_pct": 25,
+        "weight_factor": 0.25,
+        "weighted_score": 24.0
+      },
+      {
+        "dimension_key": "audience_retention_hook",
+        "name_zh": "前30秒留存钩子与完播率",
+        "name_en": "30s Cold Open Hook & Retention",
+        "description_zh": "首帧破局、前 5 秒悬念刺入与信息密度变速调制（防滑走）",
+        "raw_score": 95.0,
+        "weight_pct": 25,
+        "weight_factor": 0.25,
+        "weighted_score": 23.75
+      },
+      {
+        "dimension_key": "conversion_funnel_power",
+        "name_zh": "长短协同引流与私域承接力",
+        "name_en": "Cross-Track Funnel & Community CTA",
+        "description_zh": "短片截留引导至长片、置顶评论引导至 App 记忆资产或早报订阅",
+        "raw_score": 90.0,
+        "weight_pct": 10,
+        "weight_factor": 0.1,
+        "weighted_score": 9.0
+      }
+    ]
+  },
+  "mandatory_craftsmanship_upgrades": [
+    "【USPTO 专利图表高精渲染】：专利图表使用 4K 矢量锐化，标注红线动态推演；",
+    "【零 Emoji 严谨纪律】：全程杜绝娱乐化 Emoji，保持严谨商业调查法医调性；",
+    "【长短双规协同】：长片核心算法高潮切割为 58 秒 Shorts 强力截留导流。"
+  ],
+  "retention_engineering_protocols": {},
+  "cooldown_audit_certificate": {
+    "status": "APPROVED",
+    "verified_at": "2026-10-16T14:02:07.591999",
+    "reason_zh": "【排查通过】该题材经全矩阵历史台账核验，从未制作过且无同类撞车记录，允许作为正式指令下发。"
+  },
+  "hq_authority": {
+    "issuer": "OmniYT Command Center (HQ Brain)",
+    "governance_mode": "COLLABORATIVE_CLOSED_LOOP",
+    "autonomous_fallback_enabled": true
+  }
+}

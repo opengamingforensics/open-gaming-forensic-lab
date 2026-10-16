@@ -1,0 +1,20 @@
+{
+  "target_watch_hours": 4000.0,
+  "target_subscribers": 1000,
+  "current_watch_hours": 0.0,
+  "current_subscribers": 0,
+  "days_elapsed": 0,
+  "days_total": 90,
+  "dual_funnel": {
+    "long_form_videos_planned": 24,
+    "shorts_planned": 48,
+    "target_long_avd_percent": 45.0,
+    "target_long_views": 44000,
+    "target_shorts_views": 240000
+  },
+  "weekly_milestones": [
+    {"week": 3, "target_hours": 750, "target_subs": 250},
+    {"week": 8, "target_hours": 2600, "target_subs": 750},
+    {"week": 12, "target_hours": 4200, "target_subs": 1150}
+  ]
+}

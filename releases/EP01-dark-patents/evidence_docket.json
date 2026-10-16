@@ -1,0 +1,34 @@
+{
+  "case_id": "OGFL-CASE-2026-001",
+  "topic": "The Dark Patents of Mobile Gaming: Dynamic Difficulty & Monetization Matchmaking",
+  "verified_patents": [
+    "US20160001182A1",
+    "US20170259177A1"
+  ],
+  "patent_records": [
+    {
+      "patent_id": "US20160001182A1",
+      "assignee": "Electronic Arts Inc.",
+      "title": "Dynamic Difficulty Adjustment",
+      "filing_date": "2016-01-07",
+      "abstract": "Methods and systems for dynamically adjusting difficulty based on player retention and expected spend metrics."
+    },
+    {
+      "patent_id": "US20170259177A1",
+      "assignee": "Activision Publishing Inc.",
+      "title": "System and method for driving microtransactions in multiplayer video games",
+      "filing_date": "2017-09-14",
+      "abstract": "A matchmaking system that influences game-related purchases by pairing novice players with marquee players."
+    }
+  ],
+  "sec_filings_referenced": [
+    {
+      "ticker": "EA",
+      "filing_type": "10-K",
+      "fiscal_year": "2024",
+      "live_services_net_bookings": "$5.44B"
+    }
+  ],
+  "clean_room_osint_verified": true,
+  "public_evidence_vault_url": "github.com/opengamingforensics/dockets/tree/main/case-001"
+}

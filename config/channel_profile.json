@@ -1,0 +1,27 @@
+{
+  "channel_id": "UCM0urpEeHRsNsBlrSBAhd3w",
+  "handle": "@OpenGamingForensics",
+  "title": "Open Gaming Forensic Lab",
+  "tagline": "Deconstructing the $100 Billion Mobile Illusion.",
+  "north_star_mission": "Auditing mobile game patents, monetization algorithms, dark patterns, and championing ethical indie masterpieces.",
+  "established_date": "2026-10-16",
+  "ethics_charter": "Certified Forensic Independence: Zero predatory gacha sponsorships accepted.",
+  "official_playlists": [
+    {
+      "id": "PL_OGFL_01_PATENTS",
+      "title": "Mobile Monetization Autopsy: Patent & Code Forensics"
+    },
+    {
+      "id": "PL_OGFL_02_PSYCHOLOGY",
+      "title": "The Psychology of Modern Game Loops & Dark Patterns"
+    },
+    {
+      "id": "PL_OGFL_03_PANACEA",
+      "title": "Indie Masterclass: Premium Mobile & Handheld Masterpieces"
+    },
+    {
+      "id": "PL_OGFL_04_LEGAL",
+      "title": "Gaming Industry Antitrust, FTC & Legal Dockets"
+    }
+  ]
+}

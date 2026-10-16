@@ -1,0 +1,17 @@
+{
+  "channel_id": "open_gaming_forensic_lab",
+  "episode_id": "EP01",
+  "directive_id": "DIRECTIVE-OGFL-EP01-DARK-PATENTS",
+  "timestamp": "2026-10-16T13:36:42Z",
+  "transfer_complete": true,
+  "commit_marker": "TRANSFER_COMPLETE.ready",
+  "safe_margins_verified": true,
+  "assets": {
+    "directory": "/Users/kilvonwu/Documents/OpenGamingForensicLab/releases/EP01-dark-patents",
+    "video_file": "/Users/kilvonwu/Documents/OpenGamingForensicLab/releases/EP01-dark-patents/video.mp4",
+    "thumbnail_file": "/Users/kilvonwu/Documents/OpenGamingForensicLab/releases/EP01-dark-patents/thumbnail.jpg",
+    "metadata_file": "/Users/kilvonwu/Documents/OpenGamingForensicLab/releases/EP01-dark-patents/metadata.md",
+    "video_sha256": "56287b8b1ff3dcc62b618f073674d72898e0da2e3fc1b7d81cbd140d2c241fdc",
+    "safe_margins_verified": true
+  }
+}

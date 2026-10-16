@@ -1,0 +1,21 @@
+# Secrets and Credentials
+config/token.json*
+config/client_secret.json
+ipc/security/
+*.token
+*.jwt
+
+# Large media files
+*.mp4
+*.mov
+*.wav
+*.flac
+releases/*/*.mp4
+
+# Python & System
+__pycache__/
+*.pyc
+.DS_Store
+*.swp
+node_modules/
+.wrangler/

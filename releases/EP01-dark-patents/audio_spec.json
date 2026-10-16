@@ -1,0 +1,39 @@
+{
+  "episode_id": "EP01",
+  "integrated_lufs": -14.0,
+  "true_peak_db": -1.0,
+  "lra_lu": 8.5,
+  "voice_engine": "InvestigativeVoiceEngine",
+  "voice_model": "en-US-AndrewNeural",
+  "delivery_rate": "-2%",
+  "pitch": "+0Hz",
+  "f0_std_hz": 21.4,
+  "silence_ratio": 0.112,
+  "thinking_pause_ms": 320,
+  "zero_raw_xml": true,
+  "ebu_r128_compliant": true,
+  "raw_game_bgm_detected": false,
+  "bgm_license": "Original Cyberpunk & Dark Synthwave Procedural Electronic Soundtrack (OGFL Vault)",
+  "demucs_stem_decoupling": "COMPLETE",
+  "sidechain_ducking": {
+    "frequency_band_hz": "20-20000",
+    "attenuation_db": -14.0,
+    "ratio": "5:1",
+    "attack_ms": 15,
+    "release_ms": 300
+  },
+  "ipa_pronunciation_lexicon": {
+    "USPTO": "/juː ɛs piː tiː ˈoʊ/",
+    "DDA": "/diː diː ˈeɪ/",
+    "EOMM": "/iː oʊ ɛm ˈɛm/",
+    "EA": "/iː ˈeɪ/",
+    "Activision": "/ˈæktɪˌvɪʒən/",
+    "Subset Games": "/ˈsʌbˌsɛt ɡeɪmz/",
+    "telemetry": "/təˈlɛmɪtri/",
+    "churn": "/tʃɜːrn/",
+    "heuristic": "/hjʊəˈrɪstɪk/",
+    "microtransactions": "/ˌmaɪkroʊtrænˈzækʃənz/",
+    "operant conditioning": "/ˈɒpərənt kənˈdɪʃənɪŋ/",
+    "deterministic": "/dɪˌtɜːrmɪˈnɪstɪk/"
+  }
+}

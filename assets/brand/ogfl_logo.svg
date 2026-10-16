@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800">
+  <rect width="800" height="800" fill="#08090C" />
+  <defs>
+    <radialGradient id="cyanGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#00F0FF" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#00F0FF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <!-- Background Glow -->
+  <circle cx="400" cy="360" r="320" fill="url(#cyanGlow)" />
+  <!-- Grid -->
+  <g stroke="#00F0FF" stroke-opacity="0.08" stroke-width="1">
+    <line x1="80" y1="360" x2="720" y2="360" />
+    <line x1="400" y1="40" x2="400" y2="680" />
+    <circle cx="400" cy="360" r="100" fill="none" />
+    <circle cx="400" cy="360" r="220" fill="none" stroke-dasharray="8 8" />
+    <circle cx="400" cy="360" r="280" fill="none" />
+  </g>
+  <!-- Main Laser Ring -->
+  <circle cx="400" cy="360" r="280" fill="none" stroke="#00F0FF" stroke-width="3" stroke-dasharray="140 30" />
+  <!-- Warning Red Arc -->
+  <path d="M 180 360 A 220 220 0 0 1 620 360" fill="none" stroke="#FF2A55" stroke-width="3" />
+  <!-- Center Sensor Diamond -->
+  <polygon points="400,310 450,360 400,410 350,360" fill="rgba(0,240,255,0.15)" stroke="#00F0FF" stroke-width="2" />
+  <circle cx="400" cy="360" r="8" fill="#FF2A55" />
+  <!-- Typography -->
+  <text x="400" y="580" text-anchor="middle" font-family="SF Mono, JetBrains Mono, monospace" font-size="78" font-weight="800" fill="#F4F6F8" letter-spacing="8">OGFL</text>
+  <text x="400" y="630" text-anchor="middle" font-family="SF Mono, JetBrains Mono, monospace" font-size="20" font-weight="600" fill="#00F0FF" letter-spacing="4">OPEN GAMING FORENSIC LAB</text>
+  <text x="400" y="730" text-anchor="middle" font-family="SF Mono, JetBrains Mono, monospace" font-size="13" fill="#6482A0" letter-spacing="2">DECONSTRUCTING THE $100B MOBILE ILLUSION</text>
+</svg>
